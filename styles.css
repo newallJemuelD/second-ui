@@ -1,6 +1,5 @@
 
   .topnav a {
-    float: left;
     color: #C6D1D7;
     text-align: center;
     padding: 14px 16px;
@@ -9,4 +8,9 @@
   
   .topnav a.active {
     color: #759BB3;
+  }
+
+
+  .flex-container {
+    display: flex;
   }
